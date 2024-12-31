@@ -1,0 +1,10 @@
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\bin\Debug\ghofleposhe.exe.config
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\bin\Debug\ghofleposhe.exe
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\bin\Debug\ghofleposhe.pdb
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\obj\Debug\ghofleposhe.csproj.AssemblyReference.cache
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\obj\Debug\ghofleposhe.Form1.resources
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\obj\Debug\ghofleposhe.Properties.Resources.resources
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\obj\Debug\ghofleposhe.csproj.GenerateResource.cache
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\obj\Debug\ghofleposhe.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\obj\Debug\ghofleposhe.exe
+C:\Users\User1\source\repos\ghofleposhe\ghofleposhe\obj\Debug\ghofleposhe.pdb
